@@ -1,0 +1,84 @@
+"Generate Backstory based on following information
+Character Name: Armin Morningstar
+Character Race: Tiefling 
+Character Class: Sorcerer 
+
+Output:
+"
+"Generate Backstory based on following information
+Character Name: God Hammer
+Character Race: Half-orc
+Character Class: Eldritch knight
+
+Output:
+"
+"Generate Backstory based on following information
+Character Name: WIZLOR, CHAMPION OF GOOD, KNOWER OF THE UNKNOWN, DEFENDER OF THE GOOD PEOPLE OF SINDROA, CONQUEROR OF THE SANCTUM OF THE KING, SAVIOR OF THE DAGGER, ELUCIDATOR OF THE TWISTED TOME OF BHOUL'XI, GUARDIAN OF ARAMUN AND EMANCIPATOR OF ITS SOVEREIGN MIND, PROUD MEMBER OF DIE ARSCHLOCH, I AM KNOWN BY THE PIRATES OF THE DAGGER AS FISHMAEL, AND THE NOBILITY OF VOURSLAND CALL ME THAT OLD FUCK
+Character Race: Human
+Character Class: Wizard
+
+Output:
+"
+"Generate Backstory based on following information
+Character Name: Club
+Character Race: Human
+Character Class: Barbarian
+
+Output:
+"
+"Generate Backstory based on following information
+Character Name: Kassar the BOw
+Character Race: Human
+Character Class: Rogue
+
+Output:
+"
+"Generate Backstory based on following information
+Character Name: Harland Morningstar
+Character Race: Human
+Character Class: Cleric
+
+Output:
+"
+"Generate Backstory based on following information
+Character Name: Goop Boi
+Character Race: Sword in a gelatinous cube
+Character Class: Sorcerer
+
+Output:
+"
+"Generate Backstory based on following information
+Character Name: Donkey Club
+Character Race: Elf
+Character Class: Monk
+
+Output:
+"
+"Generate Backstory based on following information
+Character Name: Moon Blade
+Character Race: Human
+Character Class: Kai lord
+
+Output:
+"
+"Generate Backstory based on following information
+Character Name: Flying Sword Follows Goose
+Character Race: Half-elf
+Character Class: Sorcerer
+
+Output:
+"
+"Generate Backstory based on following information
+Character Name: Bolo Ness
+Character Race: Human
+Character Class: Sorcerer
+
+Output:
+"
+"Generate Backstory based on following information
+Character Name: Hammer Lulach
+Character Race: Half orc
+Character Class: Cleric
+
+Output:
+"
